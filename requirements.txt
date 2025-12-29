@@ -1,0 +1,8 @@
+streamlit
+pandas
+transformers
+torch (for transformers)
+altair
+matplotlib
+wordcloud
+(scikit-learn) often installed automatically 
